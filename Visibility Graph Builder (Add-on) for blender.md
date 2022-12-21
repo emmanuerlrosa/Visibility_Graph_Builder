@@ -7,3 +7,7 @@ How to install the Add-on using blender?:
 
 How to use the Add-On?:
 	*File > Import > Visibility Graph > Select File > Select column (optional, default column: 2) > Import Spreadsheet
+
+The list above of csv files can be used to create a visibility graph.
+
+
