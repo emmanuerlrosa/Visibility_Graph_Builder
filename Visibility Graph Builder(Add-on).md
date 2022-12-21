@@ -1,3 +1,5 @@
+Visibility Graph Builder
+
 This program is composed of functions and seven classes which make it possible to run the program efficiently. This program (Add-on) accepts csv files which represent a
 time series. Once the file is imported, it reads a column of said file (which can be selected by the user) in order to represent this data as a visibility graph. The graph is 
 made up of nodes which represent each data item in the selected column and these are displayed with different shades of colors (through the use of a colormap) with the use of 
